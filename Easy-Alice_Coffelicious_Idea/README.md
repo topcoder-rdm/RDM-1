@@ -1,5 +1,8 @@
-| HeVy         | 405727 | 99.7  |
+https://topcoder.com/challenges/30144972
+
+| Handle       | SubmissionID | 99.7  |
 |--------------|--------|-------|
+| HeVy         | 405727 | 99.7  |
 | qixiao       | 405749 | 91.7  |
 | chinvib66    | 405754 | 87.31 |
 | Sky_         | 405768 | 85.35 |
